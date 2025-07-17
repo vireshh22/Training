@@ -1,0 +1,4 @@
+# Java Notes:
+
+- Very fast & secured
+- Concurrent
