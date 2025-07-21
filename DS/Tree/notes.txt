@@ -1,0 +1,4 @@
+Height - Number of edges from root to leaf
+Level - refers to the distance of a node from the root
+
+in order - ascending order
