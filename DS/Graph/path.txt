@@ -1,0 +1,9 @@
+void path(int start,int end,String result){
+    if(start==end){
+        System.out.println(result+end);
+    }
+    result += start + " ";
+    for(int inbr:hm.get(start)){
+        path(nbr,end,result);
+    }
+}
